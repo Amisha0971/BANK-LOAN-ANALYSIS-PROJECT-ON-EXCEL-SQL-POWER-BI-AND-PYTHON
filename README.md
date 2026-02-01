@@ -1,4 +1,4 @@
-# 🏦 Bank Loan Analysis – Data Analytics Project
+# 🏦 Bank Loan Analysis – Capstone Project
 
 This project focuses on analyzing a bank’s lending activities to evaluate **loan performance, borrower behavior, and portfolio health** using **Excel, SQL, Power BI, and Python**.  
 The analysis tracks key lending KPIs and presents insights through interactive dashboards to support data-driven lending decisions.
@@ -90,14 +90,6 @@ The objective of this project is to:
 - Certain states have higher loan demand and funding  
 - Borrowers with longer employment length demonstrate better repayment behavior  
 - Loan purpose and home ownership have a significant impact on loan performance  
-
----
-
-## 📁 Project Files
-
-- 📊 **Bank Loan Analysis – Power BI Dashboard (PDF)**  
-- 📄 **Bank Loan Analysis – Project Documentation**
-
 
 
 ---
